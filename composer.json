@@ -1,0 +1,26 @@
+{
+    "name": "hoangtuan/php-framework",
+    "description": "Composer init by Eric",
+    "authors": [
+        {
+            "name": "TuanNH",
+            "email": "tuannh@smartosc.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.1",
+        "twbs/bootstrap": "5.0.2",
+        "ext-mysqli": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Eric\\": "framework/",
+            "App\\": "application/",
+            "Public\\": "public/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

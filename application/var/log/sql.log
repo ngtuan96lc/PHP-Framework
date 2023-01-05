@@ -1,0 +1,637 @@
+[2022-12-30 14:46:13] SQL: SELECT * FROM product
+[2022-12-30 14:49:59] SQL: SELECT * FROM product
+[2022-12-30 14:52:15] SQL: SELECT * FROM product
+[2022-12-30 14:55:50] SQL: SELECT * FROM product
+[2022-12-30 14:59:40] SQL: SELECT * FROM product
+[2022-12-30 15:01:35] SQL: SELECT * FROM product
+[2022-12-30 15:22:58] SQL: SELECT * FROM product
+[2022-12-30 15:23:28] SQL: SHOW COLUMNS FROM product
+[2022-12-30 15:23:59] SQL: SELECT * FROM product
+[2022-12-30 15:24:25] SQL: SHOW COLUMNS FROM product
+[2022-12-30 15:25:30] SQL: SELECT * FROM product
+[2022-12-30 15:25:35] SQL: SHOW COLUMNS FROM product
+[2022-12-30 15:26:56] SQL: SELECT * FROM product
+[2022-12-30 15:35:40] SQL: SELECT * FROM product
+[2022-12-30 15:40:02] SQL: SELECT * FROM product
+[2022-12-30 15:41:50] SQL: SELECT * FROM product
+[2022-12-30 15:47:24] SQL: SELECT * FROM product
+[2022-12-30 15:47:37] SQL: SELECT * FROM product
+[2022-12-30 15:49:19] SQL: SELECT * FROM product
+[2022-12-30 15:50:04] SQL: SELECT * FROM product
+[2022-12-30 15:50:59] SQL: SELECT * FROM product
+[2022-12-30 15:54:57] SQL: SELECT * FROM product
+[2022-12-30 15:55:13] SQL: SELECT * FROM product
+[2022-12-30 15:57:33] SQL: SELECT * FROM product
+[2022-12-30 15:58:06] SQL: SELECT * FROM product
+[2022-12-30 16:00:09] SQL: SELECT * FROM product
+[2022-12-30 16:00:45] SQL: SELECT * FROM product
+[2022-12-30 16:00:52] SQL: SELECT * FROM product
+[2022-12-30 16:01:41] SQL: SELECT * FROM product
+[2022-12-30 20:20:43] SQL: DELETE FROM product WHERE entity_id = 2
+[2022-12-30 20:21:14] SQL: SELECT * FROM product
+[2022-12-30 20:36:34] SQL: DELETE FROM product WHERE entity_id = 2
+[2022-12-30 20:37:01] SQL: SELECT * FROM product
+[2022-12-30 20:38:35] SQL: DELETE FROM product WHERE entity_id = 2
+[2022-12-30 20:38:35] SQL: SELECT * FROM product
+[2022-12-30 20:38:58] SQL: DELETE FROM product WHERE entity_id = 2
+[2022-12-30 20:38:58] SQL: SELECT * FROM product
+[2022-12-30 20:39:10] SQL: DELETE FROM product WHERE entity_id = 2
+[2022-12-30 20:39:10] SQL: SELECT * FROM product
+[2022-12-30 20:40:55] SQL: DELETE FROM product WHERE entity_id = 2
+[2022-12-30 20:40:55] SQL: SELECT * FROM product
+[2022-12-30 20:40:57] SQL: DELETE FROM product WHERE entity_id = 2
+[2022-12-30 20:40:57] SQL: SELECT * FROM product
+[2022-12-30 20:48:01] SQL: SELECT * FROM product
+[2023-01-02 09:11:21] SQL: SELECT * FROM product
+[2023-01-02 09:11:26] SQL: SELECT * FROM product
+[2023-01-02 09:12:13] SQL: DELETE FROM product WHERE entity_id = 3
+[2023-01-02 09:12:13] SQL: SELECT * FROM product
+[2023-01-02 09:12:27] SQL: DELETE FROM product WHERE entity_id = 13
+[2023-01-02 09:12:27] SQL: SELECT * FROM product
+[2023-01-02 09:12:55] SQL: DELETE FROM product WHERE entity_id = 1333
+[2023-01-02 09:13:14] SQL: DELETE FROM product WHERE entity_id = 13334
+[2023-01-02 09:14:12] SQL: SELECT * FROM product
+[2023-01-02 09:14:30] SQL: SELECT * FROM product
+[2023-01-02 09:24:21] SQL: SELECT * FROM product
+[2023-01-02 10:05:06] SQL: SELECT * FROM product
+[2023-01-02 10:05:12] SQL: SELECT * FROM product
+[2023-01-02 10:07:22] SQL: SELECT * FROM product
+[2023-01-02 10:07:42] SQL: SELECT * FROM product
+[2023-01-02 10:07:46] SQL: SELECT * FROM product
+[2023-01-02 10:08:00] SQL: SELECT * FROM product
+[2023-01-02 10:09:58] SQL: SELECT * FROM product
+[2023-01-02 10:10:20] SQL: SELECT * FROM product
+[2023-01-02 10:10:52] SQL: SELECT * FROM product
+[2023-01-02 10:11:20] SQL: SELECT * FROM product
+[2023-01-02 10:11:57] SQL: SELECT * FROM product
+[2023-01-02 10:12:22] SQL: SELECT * FROM product
+[2023-01-02 10:12:42] SQL: SELECT * FROM product
+[2023-01-02 10:12:55] SQL: SELECT * FROM product
+[2023-01-02 10:13:06] SQL: SELECT * FROM product
+[2023-01-02 10:13:13] SQL: SELECT * FROM product
+[2023-01-02 10:13:16] SQL: SELECT * FROM product
+[2023-01-02 10:13:30] SQL: SELECT * FROM product
+[2023-01-02 10:13:36] SQL: SELECT * FROM product
+[2023-01-02 10:14:29] SQL: SELECT * FROM product
+[2023-01-02 10:15:59] SQL: SELECT * FROM product
+[2023-01-02 10:16:15] SQL: SELECT * FROM product
+[2023-01-02 10:51:28] SQL: SELECT * FROM product
+[2023-01-02 10:52:23] SQL: SELECT * FROM product
+[2023-01-02 10:55:46] SQL: SELECT * FROM product
+[2023-01-02 10:56:16] SQL: SELECT * FROM product
+[2023-01-02 11:04:11] SQL: SELECT * FROM product
+[2023-01-02 11:04:42] SQL: SELECT * FROM product
+[2023-01-02 11:05:02] SQL: SELECT * FROM product
+[2023-01-02 11:05:08] SQL: SELECT * FROM product
+[2023-01-02 11:05:47] SQL: SELECT * FROM product
+[2023-01-02 11:06:11] SQL: SELECT * FROM product
+[2023-01-02 11:06:35] SQL: SELECT * FROM product
+[2023-01-02 11:07:01] SQL: SELECT * FROM product
+[2023-01-02 11:07:43] SQL: SELECT * FROM product
+[2023-01-02 11:14:33] SQL: SELECT * FROM product
+[2023-01-02 11:14:57] SQL: SELECT * FROM product
+[2023-01-02 11:15:47] SQL: SELECT * FROM product
+[2023-01-02 11:16:09] SQL: SELECT * FROM product
+[2023-01-02 11:16:39] SQL: SELECT * FROM product
+[2023-01-02 11:19:24] SQL: SELECT * FROM product
+[2023-01-02 11:19:35] SQL: DELETE FROM product WHERE entity_id = 22222
+[2023-01-02 11:19:35] SQL: SELECT * FROM product
+[2023-01-02 11:20:40] SQL: DELETE FROM product WHERE entity_id = 22222
+[2023-01-02 11:20:40] SQL: SELECT * FROM product
+[2023-01-02 11:21:07] SQL: DELETE FROM product WHERE entity_id = 22222
+[2023-01-02 11:21:07] SQL: SELECT * FROM product
+[2023-01-02 12:42:57] SQL: DELETE FROM product WHERE entity_id = 22222
+[2023-01-02 12:42:57] SQL: SELECT * FROM product
+[2023-01-02 12:43:28] SQL: DELETE FROM product WHERE entity_id = 22222
+[2023-01-02 12:43:28] SQL: SELECT * FROM product
+[2023-01-02 20:37:56] SQL: SELECT * FROM product
+[2023-01-02 20:39:39] SQL: INSERT INTO product(name, sku, quantity) VALUES (Mi Max 2, mi-max-2, 10)
+[2023-01-02 20:43:29] SQL: INSERT INTO product (name, sku, quantity) VALUES (Mi Max 2, mi-max-2, 10)
+[2023-01-02 20:45:12] SQL: INSERT INTO product (name, sku, quantity) VALUES (`Mi Max 2`, `mi-max-2`, 10)
+[2023-01-02 20:48:20] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Mi Max 2', 'mi-max-2', 10)
+[2023-01-02 20:50:30] SQL: SELECT * FROM product ORDER BY entity_id DESC
+[2023-01-02 20:51:03] SQL: SELECT * FROM product WHERE entity_id = 
+[2023-01-02 20:51:18] SQL: SELECT * FROM product
+[2023-01-02 20:57:29] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Mi Max 3', 'mi-max-3', 20)
+[2023-01-02 20:57:43] SQL: SELECT * FROM product WHERE entity_id = 5
+[2023-01-02 21:00:22] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Mi Max 3', 'mi-max-3', 20)
+[2023-01-02 21:00:25] SQL: SELECT * FROM product WHERE entity_id = 6
+[2023-01-02 21:05:04] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Mi Max 4', 'mi-max-4', 25)
+[2023-01-02 21:05:08] SQL: SELECT * FROM product WHERE entity_id = 7
+[2023-01-02 21:05:39] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Mi Max 5', 'mi-max-5', 5)
+[2023-01-02 21:05:39] SQL: SELECT * FROM product WHERE entity_id = 8
+[2023-01-02 21:08:30] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Mi Max 5', 'mi-max-5-2', 7)
+[2023-01-02 21:08:30] SQL: SELECT * FROM product WHERE entity_id = 9
+[2023-01-02 21:08:37] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Mi Max 5', 'mi-max-5-2', 7)
+[2023-01-02 21:08:37] SQL: SELECT * FROM product WHERE entity_id = 10
+[2023-01-02 21:11:33] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Mi Max 5', 'mi-max-5-2', 7)
+[2023-01-02 21:11:33] SQL: SELECT * FROM product WHERE entity_id = 11
+[2023-01-02 21:14:18] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Sam Sung Y', 'sam-sung-y', 10)
+[2023-01-02 21:14:18] SQL: SELECT * FROM product WHERE entity_id = 12
+[2023-01-02 21:27:20] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Sam Sung Y 2', 'sam-sung-y2', 10)
+[2023-01-02 21:27:20] SQL: SELECT * FROM product WHERE entity_id = 13
+[2023-01-02 21:27:24] SQL: SELECT * FROM product
+[2023-01-02 21:27:42] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Sam sung J', 'sam-sung-j', 20)
+[2023-01-02 21:27:42] SQL: SELECT * FROM product WHERE entity_id = 14
+[2023-01-02 21:28:16] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Sam sung J', 'sam-sung-j', 20)
+[2023-01-02 21:28:16] SQL: SELECT * FROM product WHERE entity_id = 15
+[2023-01-02 21:28:55] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Sam sung J', 'sam-sung-j', 20)
+[2023-01-02 21:28:55] SQL: SELECT * FROM product WHERE entity_id = 16
+[2023-01-02 21:32:41] SQL: SELECT * FROM product
+[2023-01-02 21:32:52] SQL: DELETE FROM product WHERE entity_id = 7
+[2023-01-02 21:32:52] SQL: SELECT * FROM product
+[2023-01-02 21:32:54] SQL: DELETE FROM product WHERE entity_id = 5
+[2023-01-02 21:32:54] SQL: SELECT * FROM product
+[2023-01-02 21:32:56] SQL: DELETE FROM product WHERE entity_id = 4
+[2023-01-02 21:32:56] SQL: SELECT * FROM product
+[2023-01-02 21:32:57] SQL: DELETE FROM product WHERE entity_id = 6
+[2023-01-02 21:32:57] SQL: SELECT * FROM product
+[2023-01-02 21:32:58] SQL: DELETE FROM product WHERE entity_id = 8
+[2023-01-02 21:32:58] SQL: SELECT * FROM product
+[2023-01-02 21:32:59] SQL: DELETE FROM product WHERE entity_id = 9
+[2023-01-02 21:32:59] SQL: SELECT * FROM product
+[2023-01-02 21:33:00] SQL: DELETE FROM product WHERE entity_id = 10
+[2023-01-02 21:33:00] SQL: SELECT * FROM product
+[2023-01-02 21:33:02] SQL: DELETE FROM product WHERE entity_id = 14
+[2023-01-02 21:33:02] SQL: SELECT * FROM product
+[2023-01-02 21:33:03] SQL: DELETE FROM product WHERE entity_id = 15
+[2023-01-02 21:33:03] SQL: SELECT * FROM product
+[2023-01-02 21:33:03] SQL: DELETE FROM product WHERE entity_id = 16
+[2023-01-02 21:33:03] SQL: SELECT * FROM product
+[2023-01-02 21:33:12] SQL: INSERT INTO product (name, sku, quantity) VALUES ('hahah', 'aaa', 23)
+[2023-01-02 21:33:12] SQL: SELECT * FROM product WHERE entity_id = 17
+[2023-01-02 21:33:27] SQL: INSERT INTO product (name, sku, quantity) VALUES ('hahah', 'aaa', 23)
+[2023-01-02 21:33:27] SQL: SELECT * FROM product WHERE entity_id = 18
+[2023-01-02 21:41:24] SQL: DELETE FROM product WHERE entity_id = 16
+[2023-01-02 21:41:24] SQL: SELECT * FROM product
+[2023-01-02 21:41:37] SQL: INSERT INTO product (name, sku, quantity) VALUES ('a', 'a', 12)
+[2023-01-02 21:41:37] SQL: SELECT * FROM product WHERE entity_id = 19
+[2023-01-02 21:41:41] SQL: INSERT INTO product (name, sku, quantity) VALUES ('a', 'a', 12)
+[2023-01-02 21:41:41] SQL: SELECT * FROM product WHERE entity_id = 20
+[2023-01-02 21:41:55] SQL: INSERT INTO product (name, sku, quantity) VALUES ('a', 'a', 12)
+[2023-01-02 21:41:55] SQL: SELECT * FROM product WHERE entity_id = 21
+[2023-01-02 21:42:15] SQL: INSERT INTO product (name, sku, quantity) VALUES ('a', 'a', 12)
+[2023-01-02 21:42:15] SQL: SELECT * FROM product WHERE entity_id = 22
+[2023-01-02 21:42:47] SQL: SELECT * FROM product
+[2023-01-02 21:42:50] SQL: DELETE FROM product WHERE entity_id = 20
+[2023-01-02 21:42:50] SQL: SELECT * FROM product
+[2023-01-02 21:42:51] SQL: DELETE FROM product WHERE entity_id = 18
+[2023-01-02 21:42:51] SQL: SELECT * FROM product
+[2023-01-02 21:42:52] SQL: DELETE FROM product WHERE entity_id = 19
+[2023-01-02 21:42:52] SQL: SELECT * FROM product
+[2023-01-02 21:42:53] SQL: DELETE FROM product WHERE entity_id = 21
+[2023-01-02 21:42:53] SQL: SELECT * FROM product
+[2023-01-02 21:42:53] SQL: DELETE FROM product WHERE entity_id = 22
+[2023-01-02 21:42:53] SQL: SELECT * FROM product
+[2023-01-02 21:43:16] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaaa', 'aaaa', 123)
+[2023-01-02 21:43:16] SQL: SELECT * FROM product WHERE entity_id = 23
+[2023-01-02 21:43:45] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaaa', 'aaaa', 123)
+[2023-01-02 21:43:45] SQL: SELECT * FROM product WHERE entity_id = 24
+[2023-01-02 21:43:47] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaaa', 'aaaa', 123)
+[2023-01-02 21:43:47] SQL: SELECT * FROM product WHERE entity_id = 25
+[2023-01-02 21:43:51] SQL: DELETE FROM product WHERE entity_id = 22
+[2023-01-02 21:43:51] SQL: SELECT * FROM product
+[2023-01-02 21:43:54] SQL: DELETE FROM product WHERE entity_id = 23
+[2023-01-02 21:43:54] SQL: SELECT * FROM product
+[2023-01-02 21:43:55] SQL: DELETE FROM product WHERE entity_id = 24
+[2023-01-02 21:43:55] SQL: SELECT * FROM product
+[2023-01-02 21:43:56] SQL: DELETE FROM product WHERE entity_id = 25
+[2023-01-02 21:43:56] SQL: SELECT * FROM product
+[2023-01-02 21:44:00] SQL: DELETE FROM product WHERE entity_id = 17
+[2023-01-02 21:44:00] SQL: SELECT * FROM product
+[2023-01-02 21:44:01] SQL: DELETE FROM product WHERE entity_id = 13
+[2023-01-02 21:44:01] SQL: SELECT * FROM product
+[2023-01-02 21:44:05] SQL: DELETE FROM product WHERE entity_id = 12
+[2023-01-02 21:44:05] SQL: SELECT * FROM product
+[2023-01-02 21:44:09] SQL: SELECT * FROM product
+[2023-01-02 21:44:44] SQL: SELECT * FROM product
+[2023-01-02 21:44:59] SQL: INSERT INTO product (name, sku, quantity) VALUES ('qwe', '1wqe', 12)
+[2023-01-02 21:44:59] SQL: SELECT * FROM product WHERE entity_id = 26
+[2023-01-02 21:45:13] SQL: INSERT INTO product (name, sku, quantity) VALUES ('qwe', '1wqe', 12)
+[2023-01-02 21:45:13] SQL: SELECT * FROM product WHERE entity_id = 27
+[2023-01-02 21:47:57] SQL: SELECT * FROM product
+[2023-01-02 21:47:58] SQL: SELECT * FROM product
+[2023-01-02 21:48:09] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaaa', 'ewewe2', 22)
+[2023-01-02 21:48:09] SQL: SELECT * FROM product WHERE entity_id = 28
+[2023-01-02 21:48:10] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaaa', 'ewewe2', 22)
+[2023-01-02 21:48:10] SQL: SELECT * FROM product WHERE entity_id = 29
+[2023-01-02 21:48:12] SQL: SELECT * FROM product
+[2023-01-02 22:17:52] SQL: SELECT * FROM product
+[2023-01-02 22:18:27] SQL: INSERT INTO product (name, sku, quantity) VALUES ('ko', 'ko-1', 12)
+[2023-01-02 22:18:27] SQL: SELECT * FROM product WHERE entity_id = 30
+[2023-01-02 22:24:04] SQL: INSERT INTO product (name, sku, quantity) VALUES ('ko', 'ko-1', 12)
+[2023-01-02 22:24:04] SQL: SELECT * FROM product WHERE entity_id = 31
+[2023-01-02 22:26:32] SQL: INSERT INTO product (name, sku, quantity) VALUES ('ko', 'ko-1', 12)
+[2023-01-02 22:26:32] SQL: SELECT * FROM product WHERE entity_id = 32
+[2023-01-02 22:29:52] SQL: SELECT * FROM product
+[2023-01-02 22:29:53] SQL: SELECT * FROM product
+[2023-01-02 22:30:02] SQL: INSERT INTO product (name, sku, quantity) VALUES ('hihi', 'hahah', 23)
+[2023-01-02 22:30:02] SQL: SELECT * FROM product WHERE entity_id = 33
+[2023-01-02 22:30:15] SQL: SELECT * FROM product
+[2023-01-02 22:30:23] SQL: INSERT INTO product (name, sku, quantity) VALUES ('kkkk', 'aaa', 23)
+[2023-01-02 22:30:23] SQL: SELECT * FROM product WHERE entity_id = 34
+[2023-01-02 22:30:45] SQL: SELECT * FROM product
+[2023-01-02 22:31:05] SQL: INSERT INTO product (name, sku, quantity) VALUES ('hahah', 'hh', 123)
+[2023-01-02 22:31:05] SQL: SELECT * FROM product WHERE entity_id = 35
+[2023-01-02 22:31:46] SQL: INSERT INTO product (name, sku, quantity) VALUES ('hahah1', 'hh', 2123)
+[2023-01-02 22:31:46] SQL: SELECT * FROM product WHERE entity_id = 36
+[2023-01-02 22:31:49] SQL: SELECT * FROM product
+[2023-01-02 22:31:51] SQL: DELETE FROM product WHERE entity_id = 26
+[2023-01-02 22:31:51] SQL: SELECT * FROM product
+[2023-01-02 22:31:52] SQL: DELETE FROM product WHERE entity_id = 1
+[2023-01-02 22:31:52] SQL: SELECT * FROM product
+[2023-01-02 22:31:54] SQL: DELETE FROM product WHERE entity_id = 27
+[2023-01-02 22:31:54] SQL: SELECT * FROM product
+[2023-01-02 22:31:55] SQL: DELETE FROM product WHERE entity_id = 28
+[2023-01-02 22:31:55] SQL: SELECT * FROM product
+[2023-01-02 22:31:55] SQL: DELETE FROM product WHERE entity_id = 29
+[2023-01-02 22:31:55] SQL: SELECT * FROM product
+[2023-01-02 22:31:56] SQL: DELETE FROM product WHERE entity_id = 30
+[2023-01-02 22:31:56] SQL: SELECT * FROM product
+[2023-01-02 22:31:57] SQL: DELETE FROM product WHERE entity_id = 31
+[2023-01-02 22:31:57] SQL: SELECT * FROM product
+[2023-01-02 22:31:57] SQL: DELETE FROM product WHERE entity_id = 32
+[2023-01-02 22:31:58] SQL: SELECT * FROM product
+[2023-01-02 22:31:58] SQL: DELETE FROM product WHERE entity_id = 33
+[2023-01-02 22:31:58] SQL: SELECT * FROM product
+[2023-01-02 22:31:58] SQL: DELETE FROM product WHERE entity_id = 34
+[2023-01-02 22:31:58] SQL: SELECT * FROM product
+[2023-01-02 22:31:59] SQL: DELETE FROM product WHERE entity_id = 35
+[2023-01-02 22:31:59] SQL: SELECT * FROM product
+[2023-01-02 22:31:59] SQL: DELETE FROM product WHERE entity_id = 36
+[2023-01-02 22:31:59] SQL: SELECT * FROM product
+[2023-01-02 22:32:11] SQL: INSERT INTO product (name, sku, quantity) VALUES ('test1', 'test1', 11)
+[2023-01-02 22:32:11] SQL: SELECT * FROM product WHERE entity_id = 37
+[2023-01-02 22:33:45] SQL: DELETE FROM product WHERE entity_id = 36
+[2023-01-02 22:33:45] SQL: SELECT * FROM product
+[2023-01-02 22:33:53] SQL: INSERT INTO product (name, sku, quantity) VALUES ('test2', 'test2', 10)
+[2023-01-02 22:33:53] SQL: SELECT * FROM product WHERE entity_id = 38
+[2023-01-02 22:35:37] SQL: DELETE FROM product WHERE entity_id = 36
+[2023-01-02 22:35:37] SQL: SELECT * FROM product
+[2023-01-02 22:36:52] SQL: DELETE FROM product WHERE entity_id = 36
+[2023-01-02 22:36:52] SQL: SELECT * FROM product
+[2023-01-02 22:37:03] SQL: INSERT INTO product (name, sku, quantity) VALUES ('test3', 'test3', 10)
+[2023-01-02 22:37:03] SQL: SELECT * FROM product WHERE entity_id = 39
+[2023-01-02 22:51:06] SQL: DELETE FROM product WHERE entity_id = 36
+[2023-01-02 22:51:06] SQL: SELECT * FROM product
+[2023-01-02 22:51:14] SQL: SELECT * FROM product
+[2023-01-02 22:51:32] SQL: INSERT INTO product (name, sku, quantity) VALUES ('test4', 'test4', 123)
+[2023-01-02 22:51:32] SQL: SELECT * FROM product WHERE entity_id = 40
+[2023-01-02 22:52:10] SQL: INSERT INTO product (name, sku, quantity) VALUES ('test4', 'test4', 123)
+[2023-01-02 22:52:10] SQL: SELECT * FROM product WHERE entity_id = 41
+[2023-01-02 22:52:27] SQL: INSERT INTO product (name, sku, quantity) VALUES ('test4', 'test4', 123)
+[2023-01-02 22:52:27] SQL: SELECT * FROM product WHERE entity_id = 42
+[2023-01-02 23:01:31] SQL: SELECT * FROM product
+[2023-01-02 23:01:58] SQL: INSERT INTO product (name, sku, quantity) VALUES ('test5', 'test5', 5)
+[2023-01-02 23:01:58] SQL: SELECT * FROM product WHERE entity_id = 43
+[2023-01-02 23:03:28] SQL: DELETE FROM product WHERE entity_id = 39
+[2023-01-02 23:03:28] SQL: SELECT * FROM product
+[2023-01-02 23:03:32] SQL: DELETE FROM product WHERE entity_id = 40
+[2023-01-02 23:03:32] SQL: SELECT * FROM product
+[2023-01-02 23:03:34] SQL: DELETE FROM product WHERE entity_id = 41
+[2023-01-02 23:03:34] SQL: SELECT * FROM product
+[2023-01-02 23:03:35] SQL: DELETE FROM product WHERE entity_id = 42
+[2023-01-02 23:03:35] SQL: SELECT * FROM product
+[2023-01-02 23:05:23] SQL: DELETE FROM product WHERE entity_id = 43
+[2023-01-02 23:05:23] SQL: SELECT * FROM product
+[2023-01-02 23:05:32] SQL: DELETE FROM product WHERE entity_id = 38
+[2023-01-02 23:05:32] SQL: SELECT * FROM product
+[2023-01-02 23:15:43] SQL: DELETE FROM product WHERE entity_id = 38
+[2023-01-02 23:15:43] SQL: SELECT * FROM product
+[2023-01-02 23:16:07] SQL: DELETE FROM product WHERE entity_id = 38
+[2023-01-02 23:16:07] SQL: SELECT * FROM product
+[2023-01-02 23:17:05] SQL: DELETE FROM product WHERE entity_id = 38
+[2023-01-02 23:17:05] SQL: SELECT * FROM product
+[2023-01-02 23:17:11] SQL: DELETE FROM product WHERE entity_id = 38
+[2023-01-02 23:17:11] SQL: SELECT * FROM product
+[2023-01-02 23:17:23] SQL: DELETE FROM product WHERE entity_id = 38
+[2023-01-02 23:17:23] SQL: SELECT * FROM product
+[2023-01-02 23:25:52] SQL: SELECT * FROM product
+[2023-01-02 23:25:54] SQL: SELECT * FROM product
+[2023-01-02 23:26:12] SQL: DELETE FROM product WHERE entity_id = 37
+[2023-01-02 23:26:12] SQL: SELECT * FROM product
+[2023-01-04 10:28:01] SQL: SELECT * FROM product
+[2023-01-04 10:28:22] SQL: DELETE FROM product WHERE entity_id = 11
+[2023-01-04 10:35:00] SQL: SELECT * FROM product
+[2023-01-04 10:35:06] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaa', 'aaa', 1)
+[2023-01-04 10:35:06] SQL: SELECT * FROM product WHERE entity_id = 44
+[2023-01-04 10:35:12] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaa2', 'aaa2', 12)
+[2023-01-04 10:35:12] SQL: SELECT * FROM product WHERE entity_id = 45
+[2023-01-04 10:35:16] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaa23', 'aaa23', 123)
+[2023-01-04 10:35:16] SQL: SELECT * FROM product WHERE entity_id = 46
+[2023-01-04 10:35:18] SQL: DELETE FROM product WHERE entity_id = 46
+[2023-01-04 10:35:18] SQL: SELECT * FROM product
+[2023-01-04 10:35:21] SQL: DELETE FROM product WHERE entity_id = 45
+[2023-01-04 10:36:11] SQL: DELETE FROM product WHERE entity_id = 46
+[2023-01-04 10:36:11] SQL: SELECT * FROM product
+[2023-01-04 10:36:20] SQL: SELECT * FROM product
+[2023-01-04 10:36:20] SQL: SELECT * FROM product
+[2023-01-04 10:36:26] SQL: INSERT INTO product (name, sku, quantity) VALUES ('ss', 's', 112)
+[2023-01-04 10:36:26] SQL: SELECT * FROM product WHERE entity_id = 47
+[2023-01-04 10:36:31] SQL: INSERT INTO product (name, sku, quantity) VALUES ('ss4', 's3', 11212)
+[2023-01-04 10:36:31] SQL: SELECT * FROM product WHERE entity_id = 48
+[2023-01-04 10:36:35] SQL: SELECT * FROM product
+[2023-01-04 10:36:41] SQL: DELETE FROM product WHERE entity_id = 44
+[2023-01-04 10:36:44] SQL: DELETE FROM product WHERE entity_id = 48
+[2023-01-04 10:36:47] SQL: DELETE FROM product WHERE entity_id = 47
+[2023-01-04 10:36:48] SQL: SELECT * FROM product
+[2023-01-04 10:36:54] SQL: INSERT INTO product (name, sku, quantity) VALUES ('sadsad', 'asdads', 12)
+[2023-01-04 10:36:54] SQL: SELECT * FROM product WHERE entity_id = 49
+[2023-01-04 10:37:01] SQL: INSERT INTO product (name, sku, quantity) VALUES ('4444', 'asdadssad', 122)
+[2023-01-04 10:37:01] SQL: SELECT * FROM product WHERE entity_id = 50
+[2023-01-04 10:44:10] SQL: SELECT * FROM product
+[2023-01-04 10:44:16] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaa', 'aaa', 12)
+[2023-01-04 10:44:16] SQL: SELECT * FROM product WHERE entity_id = 51
+[2023-01-04 10:44:25] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaa2222', 'aaa', 12)
+[2023-01-04 10:44:25] SQL: SELECT * FROM product WHERE entity_id = 52
+[2023-01-04 10:44:27] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aaa2222', 'aaa3333', 12)
+[2023-01-04 10:44:27] SQL: SELECT * FROM product WHERE entity_id = 53
+[2023-01-04 10:44:56] SQL: DELETE FROM product WHERE entity_id = 50
+[2023-01-04 10:45:03] SQL: DELETE FROM product WHERE entity_id = 49
+[2023-01-04 10:46:24] SQL: SELECT * FROM product
+[2023-01-04 10:46:26] SQL: DELETE FROM product WHERE entity_id = 53
+[2023-01-04 10:46:27] SQL: DELETE FROM product WHERE entity_id = 52
+[2023-01-04 10:46:28] SQL: DELETE FROM product WHERE entity_id = 51
+[2023-01-04 10:47:59] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aa', 'aa', 12)
+[2023-01-04 10:47:59] SQL: SELECT * FROM product WHERE entity_id = 54
+[2023-01-04 10:49:50] SQL: SELECT * FROM product
+[2023-01-04 10:49:51] SQL: SELECT * FROM product
+[2023-01-04 10:49:58] SQL: INSERT INTO product (name, sku, quantity) VALUES ('aa', 'a', 12)
+[2023-01-04 10:49:58] SQL: SELECT * FROM product WHERE entity_id = 55
+[2023-01-04 10:50:03] SQL: DELETE FROM product WHERE entity_id = 54
+[2023-01-04 10:50:07] SQL: SELECT * FROM product
+[2023-01-04 10:50:10] SQL: DELETE FROM product WHERE entity_id = 55
+[2023-01-04 10:50:59] SQL: SELECT * FROM product
+[2023-01-04 10:51:05] SQL: INSERT INTO product (name, sku, quantity) VALUES ('ewwe', 'ewr', 111)
+[2023-01-04 10:51:05] SQL: SELECT * FROM product WHERE entity_id = 56
+[2023-01-04 10:51:30] SQL: SELECT * FROM product
+[2023-01-04 10:51:42] SQL: DELETE FROM product WHERE entity_id = 56
+[2023-01-04 10:51:49] SQL: INSERT INTO product (name, sku, quantity) VALUES ('sad22', 'asd', 222)
+[2023-01-04 10:51:49] SQL: SELECT * FROM product WHERE entity_id = 57
+[2023-01-04 11:00:36] SQL: INSERT INTO product (name, sku, quantity) VALUES ('sad2233', 'asd', 2221)
+[2023-01-04 11:00:36] SQL: SELECT * FROM product WHERE entity_id = 58
+[2023-01-04 11:00:42] SQL: INSERT INTO product (name, sku, quantity) VALUES ('q1', 'asd', 2221)
+[2023-01-04 11:00:42] SQL: SELECT * FROM product WHERE entity_id = 59
+[2023-01-04 11:00:44] SQL: INSERT INTO product (name, sku, quantity) VALUES ('q2', 'asd', 2221)
+[2023-01-04 11:00:44] SQL: SELECT * FROM product WHERE entity_id = 60
+[2023-01-04 11:00:47] SQL: INSERT INTO product (name, sku, quantity) VALUES ('q3', 'asd', 2221)
+[2023-01-04 11:00:47] SQL: SELECT * FROM product WHERE entity_id = 61
+[2023-01-04 11:00:51] SQL: INSERT INTO product (name, sku, quantity) VALUES ('q4', 'asd', 3)
+[2023-01-04 11:00:51] SQL: SELECT * FROM product WHERE entity_id = 62
+[2023-01-04 11:00:57] SQL: INSERT INTO product (name, sku, quantity) VALUES ('q4', 'q4', 3)
+[2023-01-04 11:00:57] SQL: SELECT * FROM product WHERE entity_id = 63
+[2023-01-04 11:04:49] SQL: SELECT * FROM product
+[2023-01-04 11:05:07] SQL: INSERT INTO product (name, sku, quantity) VALUES ('q1', 'q1', 111)
+[2023-01-04 11:05:07] SQL: SELECT * FROM product WHERE entity_id = 64
+[2023-01-04 14:05:05] SQL: SELECT * FROM product
+[2023-01-04 14:05:07] SQL: DELETE FROM product WHERE entity_id = 64
+[2023-01-04 14:05:10] SQL: DELETE FROM product WHERE entity_id = 63
+[2023-01-04 14:05:11] SQL: DELETE FROM product WHERE entity_id = 62
+[2023-01-04 14:05:12] SQL: SELECT * FROM product
+[2023-01-04 14:05:14] SQL: DELETE FROM product WHERE entity_id = 60
+[2023-01-04 14:05:17] SQL: DELETE FROM product WHERE entity_id = 61
+[2023-01-04 14:05:25] SQL: INSERT INTO product (name, sku, quantity) VALUES ('q4', 'q4', 12)
+[2023-01-04 14:05:25] SQL: SELECT * FROM product WHERE entity_id = 65
+[2023-01-04 14:05:28] SQL: DELETE FROM product WHERE entity_id = 65
+[2023-01-04 14:05:32] SQL: SELECT * FROM product
+[2023-01-04 14:05:41] SQL: INSERT INTO product (name, sku, quantity) VALUES ('saa', 'asd', 123)
+[2023-01-04 14:05:41] SQL: SELECT * FROM product WHERE entity_id = 66
+[2023-01-04 14:05:44] SQL: INSERT INTO product (name, sku, quantity) VALUES ('saa', 'asd123', 123123)
+[2023-01-04 14:05:44] SQL: SELECT * FROM product WHERE entity_id = 67
+[2023-01-04 14:05:49] SQL: INSERT INTO product (name, sku, quantity) VALUES ('saa33', '123asd123', 1231232)
+[2023-01-04 14:05:49] SQL: SELECT * FROM product WHERE entity_id = 68
+[2023-01-04 14:06:16] SQL: DELETE FROM product WHERE entity_id = 68
+[2023-01-04 14:07:00] SQL: SELECT * FROM product
+[2023-01-04 14:07:14] SQL: INSERT INTO product (name, sku, quantity) VALUES ('asdsad', '121dsa', 22)
+[2023-01-04 14:07:14] SQL: SELECT * FROM product WHERE entity_id = 69
+[2023-01-04 14:07:19] SQL: DELETE FROM product WHERE entity_id = 59
+[2023-01-04 14:07:20] SQL: DELETE FROM product WHERE entity_id = 69
+[2023-01-04 14:07:22] SQL: DELETE FROM product WHERE entity_id = 67
+[2023-01-04 14:07:24] SQL: DELETE FROM product WHERE entity_id = 66
+[2023-01-04 14:21:11] SQL: SELECT * FROM product
+[2023-01-04 14:21:15] SQL: DELETE FROM product WHERE entity_id = 58
+[2023-01-04 14:21:17] SQL: DELETE FROM product WHERE entity_id = 57
+[2023-01-04 14:21:35] SQL: INSERT INTO product (name, sku, quantity) VALUES ('wqw', 'ss1', 11)
+[2023-01-04 14:21:35] SQL: SELECT * FROM product WHERE entity_id = 70
+[2023-01-04 14:21:44] SQL: INSERT INTO product (name, sku, quantity) VALUES ('wqw2', 'ss12', 2)
+[2023-01-04 14:21:44] SQL: SELECT * FROM product WHERE entity_id = 71
+[2023-01-04 14:21:55] SQL: INSERT INTO product (name, sku, quantity) VALUES ('qwe3', 'qwe3', 3)
+[2023-01-04 14:21:55] SQL: SELECT * FROM product WHERE entity_id = 72
+[2023-01-04 14:21:57] SQL: DELETE FROM product WHERE entity_id = 70
+[2023-01-04 14:22:11] SQL: DELETE FROM product WHERE entity_id = 72
+[2023-01-04 14:22:13] SQL: DELETE FROM product WHERE entity_id = 71
+[2023-01-04 14:22:14] SQL: INSERT INTO product (name, sku, quantity) VALUES ('qwe3', 'qwe3', 3)
+[2023-01-04 14:22:14] SQL: SELECT * FROM product WHERE entity_id = 73
+[2023-01-04 14:22:15] SQL: SELECT * FROM product
+[2023-01-04 14:22:24] SQL: INSERT INTO product (name, sku, quantity) VALUES ('rr', 'rrr', 23)
+[2023-01-04 14:22:24] SQL: SELECT * FROM product WHERE entity_id = 74
+[2023-01-04 15:36:41] SQL: SELECT * FROM product
+[2023-01-04 15:36:51] SQL: SELECT * FROM product
+[2023-01-04 15:38:42] SQL: SELECT * FROM product
+[2023-01-04 15:41:05] SQL: SELECT * FROM product
+[2023-01-04 15:41:29] SQL: SELECT * FROM product
+[2023-01-04 15:43:39] SQL: SELECT * FROM product
+[2023-01-04 15:59:01] SQL: SELECT * FROM product
+[2023-01-04 15:59:58] SQL: SELECT * FROM product
+[2023-01-04 16:00:37] SQL: SELECT * FROM product
+[2023-01-04 16:12:41] SQL: SELECT * FROM product
+[2023-01-04 16:13:05] SQL: INSERT INTO product (name, sku, quantity) VALUES ('asd', 'sad', 343)
+[2023-01-04 16:13:05] SQL: SELECT * FROM product WHERE entity_id = 75
+[2023-01-04 16:13:12] SQL: INSERT INTO product (name, sku, quantity) VALUES ('asd23', 'sad213', 3431)
+[2023-01-04 16:13:12] SQL: SELECT * FROM product WHERE entity_id = 76
+[2023-01-04 16:18:38] SQL: SELECT * FROM product
+[2023-01-04 16:18:45] SQL: INSERT INTO product (name, sku, quantity) VALUES ('as', 'asd', 1)
+[2023-01-04 16:18:45] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:20:47] SQL: SELECT * FROM product
+[2023-01-04 16:21:10] SQL: SELECT * FROM product
+[2023-01-04 16:22:18] SQL: SELECT * FROM product
+[2023-01-04 16:22:59] SQL: SELECT * FROM product
+[2023-01-04 16:24:19] SQL: SELECT * FROM product
+[2023-01-04 16:24:26] SQL: SELECT * FROM product
+[2023-01-04 16:25:14] SQL: SELECT * FROM product
+[2023-01-04 16:37:30] SQL: SELECT * FROM product
+[2023-01-04 16:37:40] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 16:38:09] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:38:47] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 16:38:52] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:39:10] SQL: UPDATE product SET name = 'as2', sku = 'asd2', quantity = '2' WHERE entity_id = 77
+[2023-01-04 16:39:43] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:40:28] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 16:40:28] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:40:28] SQL: UPDATE product SET name = 'as2', sku = 'asd2', quantity = '2' WHERE entity_id = 77
+[2023-01-04 16:40:28] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:40:28] SQL: SELECT * FROM product
+[2023-01-04 16:40:32] SQL: SELECT * FROM product
+[2023-01-04 16:40:50] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 16:40:50] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:40:50] SQL: UPDATE product SET name = 'as3', sku = 'asd3', quantity = '3' WHERE entity_id = 77
+[2023-01-04 16:40:50] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:41:14] SQL: SELECT * FROM product
+[2023-01-04 16:41:18] SQL: DELETE FROM product WHERE entity_id = 76
+[2023-01-04 16:41:24] SQL: DELETE FROM product WHERE entity_id = 75
+[2023-01-04 16:41:25] SQL: DELETE FROM product WHERE entity_id = 74
+[2023-01-04 16:41:27] SQL: SELECT * FROM product
+[2023-01-04 16:42:03] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 16:42:04] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:42:04] SQL: UPDATE product SET name = 'as4', sku = 'asd4', quantity = '4' WHERE entity_id = 77
+[2023-01-04 16:42:04] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 16:43:11] SQL: SELECT * FROM product
+[2023-01-04 18:14:15] SQL: SELECT * FROM product
+[2023-01-04 18:14:20] SQL: SELECT * FROM product
+[2023-01-04 18:14:42] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:14:42] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:14:42] SQL: UPDATE product SET name = 'as4_edited', sku = 'asd4', quantity = '4' WHERE entity_id = 77
+[2023-01-04 18:14:42] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:17:57] SQL: SELECT * FROM product
+[2023-01-04 18:28:53] SQL: SELECT * FROM product
+[2023-01-04 18:29:11] SQL: INSERT INTO product (name, sku, quantity) VALUES ('asd', 'asd', 22)
+[2023-01-04 18:29:11] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:29:19] SQL: INSERT INTO product (name, sku, quantity) VALUES ('asd', '12asd', 222)
+[2023-01-04 18:29:19] SQL: SELECT * FROM product WHERE entity_id = 79
+[2023-01-04 18:29:36] SQL: INSERT INTO product (name, sku, quantity) VALUES ('asd', '12asd', 222)
+[2023-01-04 18:29:36] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:29:36] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:29:36] SQL: UPDATE product SET name = 'asd_edit', sku = 'asd', quantity = '22' WHERE entity_id = 78
+[2023-01-04 18:29:36] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:31:56] SQL: SELECT * FROM product
+[2023-01-04 18:32:04] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:32:04] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:32:04] SQL: UPDATE product SET name = 'asd_edit2', sku = 'asd', quantity = '22' WHERE entity_id = 78
+[2023-01-04 18:32:04] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:32:28] SQL: SELECT * FROM product
+[2023-01-04 18:32:36] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:32:36] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:32:36] SQL: UPDATE product SET name = 'as4_edited_2', sku = 'asd4', quantity = '4' WHERE entity_id = 77
+[2023-01-04 18:32:36] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:32:45] SQL: SELECT * FROM product
+[2023-01-04 18:32:59] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:32:59] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:32:59] SQL: UPDATE product SET name = 'as4_edited_23', sku = 'asd4', quantity = '4' WHERE entity_id = 77
+[2023-01-04 18:32:59] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:33:32] SQL: SELECT * FROM product
+[2023-01-04 18:34:24] SQL: SELECT * FROM product
+[2023-01-04 18:34:49] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:34:49] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:34:49] SQL: UPDATE product SET name = 'as4_edited_23', sku = 'asd4_ediididid', quantity = '5' WHERE entity_id = 77
+[2023-01-04 18:34:49] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:35:08] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:35:08] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:35:08] SQL: UPDATE product SET name = 'asd_edited', sku = '12asd', quantity = '10' WHERE entity_id = 80
+[2023-01-04 18:35:08] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:35:12] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:35:12] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:35:12] SQL: UPDATE product SET name = 'asd_edited', sku = '12asd', quantity = '10' WHERE entity_id = 80
+[2023-01-04 18:35:12] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:35:14] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:35:14] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:35:14] SQL: UPDATE product SET name = 'asd_edited', sku = '12asd', quantity = '10' WHERE entity_id = 80
+[2023-01-04 18:35:14] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:35:25] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:35:25] SQL: SELECT * FROM product WHERE entity_id = 73
+[2023-01-04 18:35:25] SQL: UPDATE product SET name = 'qwe3_edited', sku = 'qwe3', quantity = '3' WHERE entity_id = 73
+[2023-01-04 18:35:25] SQL: SELECT * FROM product WHERE entity_id = 73
+[2023-01-04 18:35:28] SQL: SELECT * FROM product
+[2023-01-04 18:35:49] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:35:49] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:35:49] SQL: UPDATE product SET name = 'mimax', sku = 'asd4_ediididid', quantity = '5' WHERE entity_id = 77
+[2023-01-04 18:35:49] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:35:55] SQL: SELECT * FROM product
+[2023-01-04 18:36:04] SQL: SELECT * FROM product
+[2023-01-04 18:36:10] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:36:10] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:36:10] SQL: UPDATE product SET name = 'mimax2', sku = 'asd4_ediididid', quantity = '5' WHERE entity_id = 77
+[2023-01-04 18:36:10] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:36:25] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:36:25] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:36:25] SQL: UPDATE product SET name = 'Xiaomi Mi8', sku = 'mi8', quantity = '50' WHERE entity_id = 80
+[2023-01-04 18:36:25] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:36:30] SQL: SELECT * FROM product
+[2023-01-04 18:36:41] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:36:41] SQL: SELECT * FROM product WHERE entity_id = 73
+[2023-01-04 18:36:41] SQL: UPDATE product SET name = 'Nokia 9', sku = 'nokia9', quantity = '10' WHERE entity_id = 73
+[2023-01-04 18:36:41] SQL: SELECT * FROM product WHERE entity_id = 73
+[2023-01-04 18:36:47] SQL: SELECT * FROM product
+[2023-01-04 18:36:57] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:36:57] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:36:57] SQL: UPDATE product SET name = 'Xiaomi Mi8-2', sku = 'mi8', quantity = '50' WHERE entity_id = 80
+[2023-01-04 18:36:57] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:37:04] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:37:04] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:37:04] SQL: UPDATE product SET name = 'Xiaomi Mi8', sku = 'mi8', quantity = '51' WHERE entity_id = 80
+[2023-01-04 18:37:04] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-04 18:37:15] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:37:15] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:37:15] SQL: UPDATE product SET name = 'mimax2-2', sku = 'asd4_ediididid', quantity = '15' WHERE entity_id = 77
+[2023-01-04 18:37:15] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:37:28] SQL: SELECT * FROM product
+[2023-01-04 18:37:45] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:37:45] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:37:45] SQL: UPDATE product SET name = 'mimax2', sku = 'mimax2', quantity = '15' WHERE entity_id = 77
+[2023-01-04 18:37:45] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:38:11] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:38:11] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:38:11] SQL: UPDATE product SET name = 'Sam Sung Galaxy Note 10', sku = 'galaxy-note-10', quantity = '33' WHERE entity_id = 78
+[2023-01-04 18:38:11] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:38:21] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:38:21] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:38:21] SQL: UPDATE product SET name = 'Mi Max 2', sku = 'mimax2', quantity = '15' WHERE entity_id = 77
+[2023-01-04 18:38:21] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:38:47] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:38:47] SQL: SELECT * FROM product WHERE entity_id = 79
+[2023-01-04 18:38:47] SQL: UPDATE product SET name = 'Iphone 10 XS Max', sku = 'iphone10-xs-max', quantity = '100' WHERE entity_id = 79
+[2023-01-04 18:38:47] SQL: SELECT * FROM product WHERE entity_id = 79
+[2023-01-04 18:38:49] SQL: SELECT * FROM product
+[2023-01-04 18:39:13] SQL: INSERT INTO product (name, sku, quantity) VALUES ('HKT 3Y', 'kht-3y', 20)
+[2023-01-04 18:39:13] SQL: SELECT * FROM product WHERE entity_id = 81
+[2023-01-04 18:41:58] SQL: DELETE FROM product WHERE entity_id = 81
+[2023-01-04 18:42:01] SQL: INSERT INTO product (name, sku, quantity) VALUES ('HKT 3Y', 'kht-3y', 20)
+[2023-01-04 18:42:01] SQL: SELECT * FROM product WHERE entity_id = 82
+[2023-01-04 18:45:17] SQL: SELECT * FROM product
+[2023-01-04 18:45:22] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:45:22] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:45:22] SQL: UPDATE product SET name = 'Sam Sung Galaxy Note 10', sku = 'galaxy-note-10', quantity = '34' WHERE entity_id = 78
+[2023-01-04 18:45:22] SQL: SELECT * FROM product WHERE entity_id = 78
+[2023-01-04 18:45:30] SQL: SELECT * FROM product
+[2023-01-04 18:46:42] SQL: SELECT * FROM product
+[2023-01-04 18:46:48] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:46:48] SQL: SELECT * FROM product WHERE entity_id = 79
+[2023-01-04 18:46:48] SQL: UPDATE product SET name = 'Iphone 10 XS Max', sku = 'iphone10-xs-max', quantity = '100' WHERE entity_id = 79
+[2023-01-04 18:46:48] SQL: SELECT * FROM product WHERE entity_id = 79
+[2023-01-04 18:46:54] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:46:54] SQL: SELECT * FROM product WHERE entity_id = 73
+[2023-01-04 18:46:54] SQL: UPDATE product SET name = 'Nokia 9', sku = 'nokia9', quantity = '12' WHERE entity_id = 73
+[2023-01-04 18:46:54] SQL: SELECT * FROM product WHERE entity_id = 73
+[2023-01-04 18:46:57] SQL: SELECT * FROM product
+[2023-01-04 18:47:03] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:47:03] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:47:03] SQL: UPDATE product SET name = 'Mi Max 2', sku = 'mimax2', quantity = '11' WHERE entity_id = 77
+[2023-01-04 18:47:03] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:47:08] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:47:08] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:47:08] SQL: UPDATE product SET name = 'Mi Max 2', sku = 'mimax2', quantity = '12' WHERE entity_id = 77
+[2023-01-04 18:47:08] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-04 18:47:15] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-04 18:47:15] SQL: SELECT * FROM product WHERE entity_id = 79
+[2023-01-04 18:47:15] SQL: UPDATE product SET name = 'Iphone 10 XS Max', sku = 'iphone10-xs-max', quantity = '222' WHERE entity_id = 79
+[2023-01-04 18:47:15] SQL: SELECT * FROM product WHERE entity_id = 79
+[2023-01-05 10:50:53] SQL: SELECT * FROM product
+[2023-01-05 10:51:05] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-05 10:51:05] SQL: SELECT * FROM product WHERE entity_id = 82
+[2023-01-05 10:51:05] SQL: UPDATE product SET name = 'HKT 3Y', sku = 'kht-3y', quantity = '25' WHERE entity_id = 82
+[2023-01-05 10:51:05] SQL: SELECT * FROM product WHERE entity_id = 82
+[2023-01-05 10:51:12] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-05 10:51:12] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-05 10:51:12] SQL: UPDATE product SET name = 'Mi Max 2', sku = 'mimax2', quantity = '14' WHERE entity_id = 77
+[2023-01-05 10:51:12] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-05 10:51:33] SQL: SELECT * FROM product
+[2023-01-05 10:51:42] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-05 10:51:42] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-05 10:51:42] SQL: UPDATE product SET name = 'Xiaomi Mi8', sku = 'mi8', quantity = '50' WHERE entity_id = 80
+[2023-01-05 10:51:42] SQL: SELECT * FROM product WHERE entity_id = 80
+[2023-01-05 10:52:38] SQL: INSERT INTO product (name, sku, quantity) VALUES ('Sam Sung Galaxy Fold', 'galaxy-fold', 20)
+[2023-01-05 10:52:38] SQL: SELECT * FROM product WHERE entity_id = 83
+[2023-01-05 11:15:04] SQL: SELECT * FROM product
+[2023-01-05 11:15:15] SQL: INSERT INTO product (name, sku, quantity) VALUES ('', '', )
+[2023-01-05 11:15:15] SQL: SELECT * FROM product WHERE entity_id = 77
+[2023-01-05 11:15:15] SQL: UPDATE product SET name = 'Mi Max 2', sku = 'mimax2', quantity = '15' WHERE entity_id = 77
+[2023-01-05 11:15:15] SQL: SELECT * FROM product WHERE entity_id = 77

@@ -1,0 +1,120 @@
+<?php include("header.phtml"); ?>
+
+<?php
+
+use App\model\Product\ProductInterface;
+
+?>
+
+<div class="main-content">
+
+    <h3>Product Listing Page</h3>
+
+    <div class="container">
+        <div class="wrapper-add-new-product">
+            <button class="btn btn-primary add-new-product" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseAddToCart" aria-expanded="false" aria-controls="collapseAddToCart">
+                Add new product
+            </button>
+            <div class="collapse" id="collapseAddToCart">
+                <div class="form-floating mb-2">
+                    <input type="text" class="form-control" id="productName" placeholder="Enter the product name">
+                    <label for="productName">Product Name</label>
+                </div>
+                <div class="form-floating mb-2">
+                    <input type="text" class="form-control" id="sku" placeholder="SKU">
+                    <label for="sku">SKU</label>
+                </div>
+                <div class="form-floating mb-2">
+                    <input type="text" class="form-control" id="quantity" placeholder="quantity">
+                    <label for="quantity">Quantity</label>
+                </div>
+                <div class="wrapper-save-product">
+                    <button class="save-product btn btn-primary">Save Product</button>
+                </div>
+            </div>
+        </div>
+
+        <table class="table table-hover" id="product-listing">
+            <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Product Name</th>
+                <th scope="col">SKU</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Action</th>
+            </tr>
+            </thead>
+
+            <?php $products = $this->data['products']; ?>
+            <tbody>
+            <?php
+            /** @var ProductInterface $product */
+            foreach ($products as $product): ?>
+                <tr id="<?= $product->getEntityId(); ?>">
+                    <th scope="row"><?= $product->getEntityId(); ?></th>
+                    <td><?= $product->getName(); ?></td>
+                    <td><b><i><?= $product->getSku(); ?></i></b></td>
+                    <td><?= $product->getQuantity(); ?></td>
+                    <td>
+                        <button class="edit-product btn btn-primary"
+                                data-bs-toggle="modal"
+                                data-bs-target="#editProductModal"
+                                data-product-name="<?= $product->getName(); ?>"
+                                data-product-id="<?= $product->getEntityId(); ?>"
+                                data-product-sku="<?= $product->getSku(); ?>"
+                                data-product-quantity="<?= $product->getQuantity(); ?>">Edit
+                        </button>
+                        <button class="delete-product btn btn-danger" data-product-name="<?= $product->getName(); ?>"
+                                data-product-id="<?= $product->getEntityId(); ?>">Delete
+                        </button>
+                    </td>
+                </tr>
+            <?php endforeach; ?>
+            </tbody>
+        </table>
+
+        <div class="modal fade" id="editProductModal" tabindex="-1" aria-labelledby="editProductModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="editProductModalLabel">Edit product</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="mb-3 d-none">
+                                <label for="product-id-modal" class="col-form-label">Product Id:</label>
+                                <input type="text" class="form-control" id="product-id-modal">
+                            </div>
+                            <div class="mb-3">
+                                <label for="product-name-modal" class="col-form-label">Product Name:</label>
+                                <input type="text" class="form-control" id="product-name-modal">
+                            </div>
+                            <div class="mb-3">
+                                <label for="product-sku-modal" class="col-form-label">SKU:</label>
+                                <input type="text" class="form-control" id="product-sku-modal">
+                            </div>
+                            <div class="mb-3">
+                                <label for="product-quantity-modal" class="col-form-label">Quantity:</label>
+                                <input type="text" class="form-control" id="product-quantity-modal">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary save-product">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+<script src="../../../public/js/script.js"></script>
+
+<?php include("footer.phtml"); ?>
+
