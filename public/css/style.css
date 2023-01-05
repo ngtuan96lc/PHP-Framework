@@ -1,0 +1,23 @@
+header {}
+header h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+footer h3 {
+    text-align: right;
+    margin: 20px;
+}
+.wrapper-add-new-product {
+    margin-bottom: 50px;
+}
+
+button.add-new-product {
+    text-align: right;
+    border: none;
+    padding: 10px 15px;
+    margin: 10px 0;
+}
+.wrapper-save-product {
+    float: right;
+}
